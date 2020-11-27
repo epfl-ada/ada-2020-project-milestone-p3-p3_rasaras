@@ -46,15 +46,15 @@ Here is the proposed timeline with time estimates and assigned team members:
         - Friend meet-up locations: data exploration (3h) (Selim)
         - Test the accuracy of the discretization proposed in the paper (using the new dataset) (6h) (Ayman)
         - Check-in patterns: data exploration and wrangling (8h) (Rami)
-    - Week 2 (05/12 - 11/12):
+    - **Week 2 (05/12 - 11/12):**
         - Friend meet-up locations: wrangling (8h) (Selim)
         - Check-in patterns: analysis (6h) (Ayman)
         - Exploration of ML techniques to find home locations (7) (Rami)
-    - Week 3 (12/12 - 18/12):
+    - **Week 3 (12/12 - 18/12):**
         - Friend meet-up locations: analysis (12h) (Ayman & Selim)
         - Exploration of ML techniques to find home locations ctd. (7) (Rami)
         - Data story / report (12h) (everyone)
-    - Week 4 (19/12 - 23/12):
+    - **Week 4 (19/12 - 23/12):**
         - Short video (slides + recording + editing) (6h) (everyone)
 
 7) **Organization within the team** :
